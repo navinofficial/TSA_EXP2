@@ -71,12 +71,14 @@ resampled_data['Polynomial Trend'].plot(kind='line',color='black',marker='o')
 ```
 ### OUTPUT
 ### A - LINEAR TREND ESTIMATION
-<img width="304" height="26" alt="image" src="https://github.com/user-attachments/assets/7aa8c5ce-515f-44ea-84f8-89db71965fed" />
+
 <img width="542" height="437" alt="image" src="https://github.com/user-attachments/assets/f85c611f-c3f6-4bc4-870d-f2da0ba3b551" />
+<img width="304" height="26" alt="image" src="https://github.com/user-attachments/assets/7aa8c5ce-515f-44ea-84f8-89db71965fed" />
 
 ### B- POLYNOMIAL TREND ESTIMATION
-<img width="430" height="34" alt="image" src="https://github.com/user-attachments/assets/e18787b9-96e6-4e8b-9d7c-ba741f2a9c77" />
 <img width="532" height="430" alt="image" src="https://github.com/user-attachments/assets/14909119-675b-41cc-a46e-36205599c99c" />
+<img width="430" height="34" alt="image" src="https://github.com/user-attachments/assets/e18787b9-96e6-4e8b-9d7c-ba741f2a9c77" />
+
 
 ### RESULT:
 Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
